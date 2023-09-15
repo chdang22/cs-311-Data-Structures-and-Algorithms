@@ -1,0 +1,27 @@
+# ninja log v5
+25	608	7091705323335946	CMakeFiles/assignment1.dir/assignment1-main/test1.cpp.obj	fb9709ae1349c5e3
+46	611	7091695441862047	CMakeFiles/t1.dir/assignment1-main/test1.cpp.obj	4d72da15ad9511b2
+3	120	7085949806297426	assignment1.exe	2bbb0d98860445fd
+12	488	7086104740101997	CMakeFiles/assignment1.dir/assignment1-main/test2.cpp.obj	92c018be16eba7a4
+18	472	7086104739651594	CMakeFiles/assignment1.dir/assignment1-main/test3.cpp.obj	3eb6feff41407ddf
+31	619	7091705323581800	CMakeFiles/assignment1.dir/assignment1-main/linkedlist.cpp.obj	3ddda41af29a8949
+5	459	7091700551232489	CMakeFiles/t2.dir/assignment1-main/linkedlist.cpp.obj	720ab1b062a747ab
+1	510	7091705399794811	build.ninja	18b0e12824eb34ff
+3	618	7091705323513109	CMakeFiles/t1.dir/assignment1-main/linkedlist.cpp.obj	a575639bda79b53f
+318	579	7091696728523886	t1.exe	dc61810d52b83bfd
+10	463	7091697501695870	CMakeFiles/t3.dir/assignment1-main/test3.cpp.obj	b876e8a72a91b9cf
+3	574	7091696902475202	CMakeFiles/t2.dir/assignment1-main/test2.cpp.obj	9199c971eee67852
+9	616	7091705323421702	CMakeFiles/t3.dir/assignment1-main/linkedlist.cpp.obj	b17eb3d9e1c01f7d
+460	782	7091700554378593	t2.exe	1b22ff51c2d1a93c
+534	648	7091697503515363	t3.exe	1df1bd6168032b3c
+14	625	7091705323779356	CMakeFiles/t02.dir/assignment1-main/linkedlist.cpp.obj	c3da96a4978f89c4
+5	268	7091705417389365	t1.exe	dc61810d52b83bfd
+22	270	7091705417537934	t3.exe	1df1bd6168032b3c
+38	607	7091705421364431	CMakeFiles/assignment1.dir/assignment1-main/test3.cpp.obj	3eb6feff41407ddf
+30	612	7091705421400234	CMakeFiles/assignment1.dir/assignment1-main/test2.cpp.obj	92c018be16eba7a4
+10	608	7091707920405084	CMakeFiles/t2.dir/assignment1-main/linkedlist.cpp.obj	720ab1b062a747ab
+4	610	7091707920382813	CMakeFiles/t1.dir/assignment1-main/linkedlist.cpp.obj	a575639bda79b53f
+16	610	7091707920499849	CMakeFiles/t3.dir/assignment1-main/linkedlist.cpp.obj	b17eb3d9e1c01f7d
+37	620	7091707920706211	CMakeFiles/assignment1.dir/assignment1-main/linkedlist.cpp.obj	3ddda41af29a8949
+29	655	7091707921054048	CMakeFiles/t02.dir/assignment1-main/linkedlist.cpp.obj	c3da96a4978f89c4
+3	171	7091707971053057	t2.exe	1b22ff51c2d1a93c

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="971e859f-a529-4786-9a4a-080778ee464f" name="mytest" defaultType="MAKE">
+      <configuration id="60c379ea-cb32-4491-8145-33036d0d8473" name="mytest">
+        <build type="MAKE">
+          <make targetName="&quot;C:\Users\caroh\OneDrive\Caroline Dang\CSUSM\2023 summer\cs311\assignments\assignment3\assignment3-main\mytest.cpp&quot;" />
+        </build>
+      </configuration>
+    </target>
+  </component>
+</project>
